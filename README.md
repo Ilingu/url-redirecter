@@ -2,7 +2,7 @@
 
 #### ➡️ Chrome Extension that redirects urls by the one you've defined. It can redirect malicious website to privacy friendly one (like `twitter➡️nitter`)
 
-#### ➡️ [⚡ Check it out!]()
+#### ➡️ [⚡ Check it out!]() (chrome webstore don't want to publish my extension so nop, if you want to try build from source)
 
 ## 📕 Purpose
 

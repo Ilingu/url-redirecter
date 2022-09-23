@@ -18,7 +18,7 @@
   },
   "scripts": {
     "dev": "vite build -w",
-    "build": "rm -rfv ./dist app.zip && vite build && zip app.zip ./dist",
+    "build": "rm -rfv ./dist app.zip && vite build && zip -r app.zip ./dist",
     "lint": "eslint . --fix -c .eslintrc --ext js,ts --ignore-pattern='!.*'",
     "dev:nodemon": "nodemon",
     "build:noemit": "tsc --noEmit && vite build"

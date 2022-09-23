@@ -6,6 +6,7 @@
 
 # build
 /dist
+/app.zip
 
 # etc
 .DS_Store
